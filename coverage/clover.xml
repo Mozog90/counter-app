@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1794091526146" clover="3.2.0">
+  <project timestamp="1794091526146" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="9" coveredelements="9" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="App.tsx" path="C:\Users\mozog\Documents\AD361\StarterLab03\counter-app\src\App.tsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="4" count="14" type="stmt"/>
+      <line num="6" count="14" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
